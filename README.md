@@ -5,6 +5,8 @@
 - html
 - css
 - javascript
+- bootstrap
+- jquery
 
 #### Levantar ambiente:
 ```python

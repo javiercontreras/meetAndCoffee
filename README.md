@@ -5,7 +5,7 @@
 - html
 - css
 - javascript
-####librerias
+#### Librerias:
 - bootstrap
 - jquery
 
